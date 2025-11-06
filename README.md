@@ -1,3 +1,5 @@
+* LangGraph 프레임워크를 활용한 GraphRAG 파이프라인 구성 Sample (지식기반 그래프 아님)
+
 1. conda create -n graphrag python=3.10
 2. conda activate langgraph_graphrag
 3. pip install -r requirements.txt
