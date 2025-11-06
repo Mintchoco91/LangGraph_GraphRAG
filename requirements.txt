@@ -1,0 +1,22 @@
+# === Core LangChain packages ===
+langchain
+langchain-community
+langchain-openai
+langchain-ollama
+
+# === VectorStore / Embedding ===
+faiss-cpu
+tiktoken
+sentence-transformers
+
+# === PDF & Environment ===
+pypdf
+python-dotenv
+
+# === GraphRAG ===
+langgraph
+
+# === Visualization & Utilities ===
+networkx
+matplotlib
+pandas
